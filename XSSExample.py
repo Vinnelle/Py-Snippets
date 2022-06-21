@@ -1,3 +1,5 @@
+# code works in theory, not properly tested for obvious reasons.
+
 import os
 import sys
 import socket
