@@ -1,2 +1,2 @@
 # Py-Snippets
-Python Snippets of code that I have developed over time.
+Snippets of Python code that I have been working on.
