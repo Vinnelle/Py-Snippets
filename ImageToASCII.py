@@ -1,4 +1,4 @@
-# The program I made converts a image into an ASCII image. It starts by opening the Image file and getting the width and height of the image. It then converts the image to grayscale and creates a list of ASCII characters. The program then loops through each pixel in the image and assigns it a character from the list based on its grayscale value. Finally, the program writes the ASCII image to a text file.
+# The program I made converts an image into an ASCII image. It starts by opening the Image file and getting the width and height of the image. It then converts the image to grayscale and creates a list of ASCII characters. The program then loops through each pixel in the image and assigns it a character from the list based on its grayscale value. Finally, the program writes the ASCII image to a text file.
 
 #!/usr/bin/env python3
 
